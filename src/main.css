@@ -10,7 +10,7 @@ h1 {
     color: brown;
     text-align: center;
     font-size: 35px;
-    animation: zoom 1.5s 0s 1 ease-out;
+    animation: zoom 1.5s 0s 2 ease-out;
     width: 700px;
 }
 
